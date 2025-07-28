@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jcelaster72729" target="blank"><img src="https://img.shields.io/twitter/follow/jcelaster72729?logo=twitter&style=for-the-badge" alt="jcelaster72729" /></a> </p>
 
-- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/)
+- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/)
 
 - 🌱 I’m currently learning **DSA, nextjs**
 

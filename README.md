@@ -9,7 +9,9 @@
 
 - ☀️ GSSOC'25 Open-Source Contributor
   
-- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/)
+- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/) a AI -microcontent gen app.
+
+- 🔭 Working on a CLI Tool [Celtrix] (https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
 
 - 🌱 I’m currently learning **DSA, nextjs**
 

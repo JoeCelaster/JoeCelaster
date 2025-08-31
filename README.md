@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/jcelaster72729" target="blank"><img src="https://img.shields.io/twitter/follow/jcelaster72729?logo=twitter&style=for-the-badge" alt="jcelaster72729" /></a> </p>
 
-- ☀️ GSSOC'25 Open-Source Contributor
-  
-- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/) a AI -microcontent gen app.
 
-- 🔭 Working on a CLI Tool [Celtrix] (https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
+- 🔭 Working on a CLI Tool [Celtrix](https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
+  
+- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/) an AI -microcontent gen app.
+
+- ☀️ GSSOC'25 Open-Source Contributor
 
 - 🌱 I’m currently learning **DSA, nextjs**
 

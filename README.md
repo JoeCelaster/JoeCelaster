@@ -1,27 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joe Celaster</h1>
-<h3 align="center">A passionate MERN Stack dev and open-source contributor.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joecelaster&label=Profile%20views&color=0e75b6&style=flat" alt="joecelaster" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joecelaster" alt="joecelaster" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jcelaster72729" target="blank"><img src="https://img.shields.io/twitter/follow/jcelaster72729?logo=twitter&style=for-the-badge" alt="jcelaster72729" /></a> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce05ae23-31f7-46a6-a460-90cf2999e141" alt="ghb-img" />
+</p>
 
 
-- 🔭 Working on a CLI Tool [Celtrix](https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
-  
-- 🔭 I’m currently working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/) an AI -microcontent gen app.
-
-- ☀️ GSSOC'25 Open-Source Contributor
-
-- 🌱 I’m currently learning **DSA, nextjs**
-
-- 👯 I’m looking to collaborate on **Mern projects**
-
-- 🤝 I’m looking for help with **Maching Learning**
-
-- 📫 How to reach me **joecelaster2006@gmail.com**
-- 
+- Solving Real World Problems
+- Working on a CLI Tool [Celtrix](https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
+- Working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/).
+- I’m currently learning **DSA, nextjs, GenAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

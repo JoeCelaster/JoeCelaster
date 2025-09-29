@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe Celaster</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce05ae23-31f7-46a6-a460-90cf2999e141" alt="ghb-img" />
 </p>
 
 

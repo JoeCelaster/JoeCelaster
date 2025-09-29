@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joe Celaster</h1>
 
 <p align="center">
-</p>
+
 
 
 - Solving Real World Problems
 - Working on a CLI Tool [Celtrix](https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
 - Working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/).
 - I’m currently learning **DSA, nextjs, GenAI**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@joe_celaster_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@joe_celaster_123" height="30" width="40" /></a>

@@ -6,7 +6,7 @@
 
 - Solving Real World Problems
 - Building a Web app Scaffolder  [Celtrix](https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
-- Working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify.vercel.app/).
+- Working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify-ai.vercel.app/).
 - I’m currently learning **DSA, nextjs, GenAI**
 </p>
 <h3 align="left">Connect with me:</h3>

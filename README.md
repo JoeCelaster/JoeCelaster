@@ -8,16 +8,26 @@
 - Building a Web app Scaffolder  [Celtrix](https://GitHub.com/JoeCelaster/Celtrix), where you can setup your web-apps in seconds.
 - Working on [Inter Frieght Forwarders](https://interfreightforwarders.netlify.app/) and [Plexify](https://plexify-ai.vercel.app/).
 - I’m currently learning about **AI**
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@joe_celaster_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@joe_celaster_123" height="30" width="40" /></a>
-<a href="https://twitter.com/jcelaster72729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcelaster72729" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joe-celaster-9581792a3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boi%2finga9tki6xik3frfy%2bw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joe-celaster-9581792a3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boi%2finga9tki6xik3frfy%2bw%3d%3d" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31100336/joe-celaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31100336/joe-celaster" height="30" width="40" /></a>
-<a href="https://medium.com/@joecelaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joecelaster" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/joe_celaster123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/joe_celaster123/" height="30" width="40" /></a>
-<a href="/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="." height="30" width="40" /></a>
+  <a href="https://dev.to/joe_celaster_123" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joe_celaster_123" height="30" width="40" />
+  </a>
+  <a href="https://x.com/JCelaster72729" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcelaster72729" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/joe-celaster-9581792a3/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe-celaster" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/31626153/joe-celaster" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joe-celaster" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@joecelaster2006" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joecelaster" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Joe_Celaster123/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Joe_Celaster123" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

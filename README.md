@@ -5,8 +5,8 @@
 
 
 - Solving Real World Problems
-- Building a Web app Scaffolder  [Celtrix](https://Celtrix-dev.netlify.app/), where you can setup your web-apps in seconds.
-- Working on [Inter Frieght Forwarders](https://interfreight.in/) and [Plexify](https://plexify-ai.vercel.app/).
+- Building a Web app Scaffolder  [Celtrix](https://celtrix.tech/), where you can setup your web-apps in seconds.
+- Working on [Inter Frieght Forwarders](https://interfreight.in/) and [ManageYourSaaS](https://manageyoursaas.com/).
 - I’m currently learning about **AI**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -14,7 +14,7 @@ Explore me here: https://www.celaster.me/
 <p align="center">
   <a href="https://www.buymeacoffee.com/joe_celtrix">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         alt="Buy Me A Coffee"
+         alt="Buy Joe A Coffee"
          style="height: 60px !important;width: 217px !important;">
   </a>
 </p>

@@ -13,8 +13,6 @@ Explore me here: https://www.celaster.me/
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/joe_celtrix">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         alt="Buy Joe A Coffee"
-         style="height: 60px !important;width: 217px !important;">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy Joe a coffee !&emoji=☕&slug=joe_celtrix&button_colour=FFFF00&font_colour=000000&outline_colour=000000&coffee_colour=FFDD00" />
   </a>
 </p>

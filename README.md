@@ -6,7 +6,7 @@
 
 - Solving Real World Problems
 - Building a Web app Scaffolder  [Celtrix](https://celtrix.tech/), where you can setup your web-apps in seconds.
-- Working on [Inter Frieght Forwarders](https://interfreight.in/) and [ManageYourSaaS](https://manageyoursaas.com/).
+- Working on [Inter Freight Forwarders](https://interfreight.in/) and [ManageYourSaaS](https://manageyoursaas.com/).
 - I’m currently learning about **AI**
 
 Explore me here: https://www.celaster.me/

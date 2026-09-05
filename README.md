@@ -1,20 +1,15 @@
- <h1 align="center">Joe Celaster</h1>
+<p>
 
-<p align="center">
+<p> 𝙃𝙞, 𝙞 𝙖𝙢 𝙅𝙤𝙚 𝘾𝙚𝙡𝙖𝙨𝙩𝙚𝙧 - 𝙞 𝙡𝙤𝙫𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚</p>
 
+---
 
+𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
 
-- Solving Real World Problems
-- Building a Web app Scaffolder  [Celtrix](https://celtrix.tech/), where you can setup your web-apps in seconds.
-- Working on [Inter Freight Forwarders](https://interfreight.in/) and [ManageYourSaaS](https://manageyoursaas.com/).
-- I’m currently learning about **AI**
+  - 𝙂𝙧𝙖𝙢𝙞𝙩 - 𝘼𝙄 𝙩𝙝𝙖𝙩 𝙝𝙚𝙡𝙥𝙨 𝙮𝙤𝙪 𝙬𝙧𝙞𝙩𝙚, 𝙘𝙤𝙙𝙚 𝙖𝙣𝙙 𝙛𝙞𝙭 𝙚𝙣𝙜𝙞𝙨𝙝 𝙬𝙝𝙚𝙧𝙚𝙫𝙚𝙧 𝙪 𝙨𝙩𝙖𝙮.
+  - 𝙅𝙖𝙨𝙩𝙚𝙧 - 𝙖 𝙘𝙡𝙞 𝙩𝙤𝙤𝙡 𝙩𝙤 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙠𝙚𝙮𝙗𝙤𝙖𝙧𝙙 𝙨𝙤𝙪𝙣𝙙 𝙡𝙞𝙠𝙚 𝙢𝙚𝙘𝙝𝙖𝙣𝙞𝙘𝙖𝙡 
+  - 𝘾𝙚𝙡𝙩𝙧𝙞𝙭 - 𝙖 𝙬𝙚𝙗 𝙖𝙥𝙥 𝙨𝙘𝙖𝙛𝙛𝙤𝙡𝙙𝙚𝙧.
 
-Explore me here: https://www.celaster.me/
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joe_celtrix">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         alt="Buy Me A Coffee"
-         style="height: 60px !important;width: 217px !important;">
-  </a>
-</p>
+--- 
+-  𝙞𝙛 𝙮𝙤𝙪 𝙜𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙗𝙮 𝙖𝙣𝙮 𝙤𝙛 𝙩𝙝𝙚 𝙖𝙗𝙤𝙫𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 [𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚](mailto:joecelaster2006@gmail.com)
+-  𝙎𝙞𝙩𝙚: [𝙘𝙚𝙡𝙖𝙨𝙩𝙚𝙧.𝙢𝙚](https://celaster.me)

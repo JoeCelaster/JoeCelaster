@@ -1,14 +1,53 @@
-<img width="480" height="320" alt="my" src="https://github.com/user-attachments/assets/d6ed9358-affb-4052-b346-f7a9126693cb" />𝙃𝙞, 𝙞 𝙖𝙢 𝙅𝙤𝙚 𝘾𝙚𝙡𝙖𝙨𝙩𝙚𝙧 - 𝙞 𝙡𝙤𝙫𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚</p>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img width="300" height="180" alt="GIF" src="https://github.com/user-attachments/assets/062b60b7-9c05-4c53-9bee-aff13aaa9a47" />
+    </td>
+    <td align="left" valign="middle">
+
+  ### WhoAmI
+      
+  - This is _**Joe Celaster**_
+  - I love creating open source software.
+      </td>
+  </tr>
+</table>
+
 ---
 
-𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" alt="Red Dead Redemption 2 Rockstar GIF" src="https://github.com/user-attachments/assets/d7ee312a-bc95-44f6-968e-b59d822cbcfb" />
+    </td>
+    <td valign="middle">
 
-  - 𝙂𝙧𝙖𝙢𝙞𝙩 - 𝘼𝙄 𝙩𝙝𝙖𝙩 𝙝𝙚𝙡𝙥𝙨 𝙮𝙤𝙪 𝙬𝙧𝙞𝙩𝙚, 𝙘𝙤𝙙𝙚 𝙖𝙣𝙙 𝙛𝙞𝙭 𝙚𝙣𝙜𝙞𝙨𝙝 𝙬𝙝𝙚𝙧𝙚𝙫𝙚𝙧 𝙪 𝙨𝙩𝙖𝙮.
-  - 𝙅𝙖𝙨𝙩𝙚𝙧 - 𝙖 𝙘𝙡𝙞 𝙩𝙤𝙤𝙡 𝙩𝙤 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙠𝙚𝙮𝙗𝙤𝙖𝙧𝙙 𝙨𝙤𝙪𝙣𝙙 𝙡𝙞𝙠𝙚 𝙢𝙚𝙘𝙝𝙖𝙣𝙞𝙘𝙖𝙡 
-  - 𝘾𝙚𝙡𝙩𝙧𝙞𝙭 - 𝙖 𝙬𝙚𝙗 𝙖𝙥𝙥 𝙨𝙘𝙖𝙛𝙛𝙤𝙡𝙙𝙚𝙧.
+### Building
 
---- 
--  𝙞𝙛 𝙮𝙤𝙪 𝙜𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙗𝙮 𝙖𝙣𝙮 𝙤𝙛 𝙩𝙝𝙚 𝙖𝙗𝙤𝙫𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 [𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚](mailto:joecelaster2006@gmail.com)
--  𝙎𝙞𝙩𝙚: [𝙘𝙚𝙡𝙖𝙨𝙩𝙚𝙧.𝙢𝙚](https://celaster.me)
+- **[Celtrix](https://github.com/celtrix-os/Celtrix)** - Set up your web app first. Then build it with AI.
 
-<img width="480" height="320" alt="my" src="https://github.com/user-attachments/assets/062b60b7-9c05-4c53-9bee-aff13aaa9a47" />
+- **[Jaster](https://github.com/JoeCelaster/Jaster)** - Add mechanical keyboard sounds to your typing.
+
+- **[gramit](https://github.com/JoeCelaster/gramit)** - Ctrl + A → Ctrl + Alt + F → AI makes it awesome.
+    </td>
+    
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img width="300" alt="Red Dead Redemption Rockstar Games GIF" src="https://github.com/user-attachments/assets/5d08df4c-ca8a-4d41-97fa-3b1f4631e554" />
+    </td>
+    <td width="55%" valign="middle">
+
+### Connect
+
+- [contact me](mailto:joecelaster2006@gmail.com).
+- [celaster.me](https://celaster.me)
+
+    </td>
+  </tr>
+</table>

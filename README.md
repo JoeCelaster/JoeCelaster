@@ -1,7 +1,4 @@
-<p>
-
-<p> 𝙃𝙞, 𝙞 𝙖𝙢 𝙅𝙤𝙚 𝘾𝙚𝙡𝙖𝙨𝙩𝙚𝙧 - 𝙞 𝙡𝙤𝙫𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚</p>
-
+<img width="480" height="320" alt="my" src="https://github.com/user-attachments/assets/d6ed9358-affb-4052-b346-f7a9126693cb" />𝙃𝙞, 𝙞 𝙖𝙢 𝙅𝙤𝙚 𝘾𝙚𝙡𝙖𝙨𝙩𝙚𝙧 - 𝙞 𝙡𝙤𝙫𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚</p>
 ---
 
 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
@@ -13,3 +10,5 @@
 --- 
 -  𝙞𝙛 𝙮𝙤𝙪 𝙜𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙗𝙮 𝙖𝙣𝙮 𝙤𝙛 𝙩𝙝𝙚 𝙖𝙗𝙤𝙫𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 [𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚](mailto:joecelaster2006@gmail.com)
 -  𝙎𝙞𝙩𝙚: [𝙘𝙚𝙡𝙖𝙨𝙩𝙚𝙧.𝙢𝙚](https://celaster.me)
+
+<img width="480" height="320" alt="my" src="https://github.com/user-attachments/assets/062b60b7-9c05-4c53-9bee-aff13aaa9a47" />

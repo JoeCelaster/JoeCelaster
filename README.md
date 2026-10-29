@@ -24,7 +24,8 @@
 
 ### Building
 
-- **[Celtrix](https://github.com/celtrix-os/Celtrix)** - Set up your web app first. Then build it with AI.
+- **[Celtrix](https://github.com/celtrix-os/Celtrix)** - Set up your web app first. Then build it with AI. 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JoeCelaster/badge.svg)](https://hub.xerj.org/contributors/JoeCelaster)
 
 - **[Jaster](https://github.com/JoeCelaster/Jaster)** - Add mechanical keyboard sounds to your typing.
 

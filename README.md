@@ -22,7 +22,7 @@
     </td>
     <td valign="middle">
 
-### Building
+### Cool projectssss....
 
 - **[Celtrix](https://github.com/celtrix-os/Celtrix)** - Set up your web app first. Then build it with AI. 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JoeCelaster/badge.svg)](https://hub.xerj.org/contributors/JoeCelaster)
